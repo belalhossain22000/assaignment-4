@@ -45,4 +45,4 @@ function mindGame(inputNumber) {
   return number;
 }
 
-console.log(mindGame(-2));
+console.log(mindGame(50));
